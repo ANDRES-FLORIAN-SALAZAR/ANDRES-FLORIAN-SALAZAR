@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola a Todos! Soy Duvan Andrés Florian Salazar 🌟</h1>
 
-##
-<h4 align="center"> <b><a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> • <b><a href="#programacion">💻 Programación</a></b> • <a href="#contacto">✉️ Contacto</a> • <a href="#proyectos">📂 Proyectos</a> </h4>
+##<h4 align="center"> <b><a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> • <b><a href="#programacion">💻 Programación</a></b> • <a href="#contacto">✉️ Contacto</a> • <a href="#proyectos">📂 Proyectos</a> </h4>.
 
 ## 🌟 Introducción
 
