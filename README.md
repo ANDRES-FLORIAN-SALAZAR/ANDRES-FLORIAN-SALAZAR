@@ -1,9 +1,5 @@
 <h1 align="center">¡Hola a Todos! Soy Duvan Andrés Florian Salazar 🌟</h1>
 
-<div align="center">
-  <img src="TU_IMAGEN_PREFERIDA_URL" height="360" alt="Banner Personalizado" />
-</div>
-
 <h4 align="center">
   <b><a href="#ciberseguridad">Ciberseguridad</a></b>
   •
