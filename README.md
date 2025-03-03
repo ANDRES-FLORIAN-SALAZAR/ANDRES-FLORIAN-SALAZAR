@@ -30,7 +30,7 @@
 | 🌐 HTML/CSS/Java     | 📊 SQL Server       | 🔐 Windows/Linux           |
 
 ## 🌟 Proyectos Relevantes
-- **ALPHA_WEB:** Creación de un codificador de contraseñas.
+- **ALPHA_WEB:** Creación de un codificador de contraseñas y un entorno de seguridad.
 - **PRUEBAS_SOFTWARE:** Pruebas de seguridad para aplicaciones y sistemas.
 - **TWITTER2:** Crear endpoints con respuesta de la aplicación utilizando MongoDB.
 - **nosql_taller5:** Uso y aprendizaje práctico de bases de datos NoSQL.
