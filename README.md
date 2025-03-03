@@ -29,6 +29,14 @@
 | 🐍 Python            | 🗄️ MongoDB         | 🖥️ Visual Studio Code      |
 | 🌐 HTML/CSS/Java     | 📊 SQL Server       | 🔐 Windows/Linux           |
 
+## 🌟 Proyectos Relevantes
+- **ALPHA_WEB:** Creación de un codificador de contraseñas.
+- **PRUEBAS_SOFTWARE:** Pruebas de seguridad para aplicaciones y sistemas.
+- **TWITTER2:** Crear endpoints con respuesta de la aplicación utilizando MongoDB.
+- **nosql_taller5:** Uso y aprendizaje práctico de bases de datos NoSQL.
+- **TALLER-SQL:** Manejo avanzado de SQL Server para proyectos de análisis y desarrollo.
+- **AJEDREZ:** Creación básica de un juego de ajedrez con enfoque en lógica y diseño.
+
 ## 🌐 Encuéntrame en
 <a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank">
   <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -41,10 +49,6 @@
 <a href="mailto:duvanfloriansalazar@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-## ⭐ Proyectos Relevantes
-- [Proyecto 1](#): Breve descripción.
-- [Proyecto 2](#): Breve descripción.
 
 ---
 
