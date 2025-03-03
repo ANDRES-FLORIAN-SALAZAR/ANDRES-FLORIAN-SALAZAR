@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola a Todos! Soy Duvan Andrés Florian Salazar 🌟</h1>
 
 ##
-<h4 align="center"> <b><a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> • <b><a href="#programacion">💻 Programación</a></b> • <a href="#contacto">✉️ Contacto</a> • <a href="#proyectos">📂 Proyectos</a> </h4>##
+<h4 align="center"> <b><a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> • <b><a href="#programacion">💻 Programación</a></b> • <a href="#contacto">✉️ Contacto</a> • <a href="#proyectos">📂 Proyectos</a> </h4>
 
-## 🌟 Introducción
+🌟 Introducción
 
 ¡Bienvenidos a mi mundo! Soy un apasionado explorador del vasto universo de la ciberseguridad y la programación. Mi enfoque principal está en proteger, construir y comprender cómo la tecnología puede transformar el mundo.
 
