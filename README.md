@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola a Todos! Soy Duvan Andrés Florian Salazar 🌟</h1>
+<h1 align="center">Soy Duvan Andrés Florian Salazar 🌟</h1>
 
 ## 
   ![Ciberseguridad](https://i.imgur.com/6i7Pp1d.png "Ciberseguridad")
