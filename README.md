@@ -1,4 +1,3 @@
-
 <body style="background-color: #000; color: #00FFFF; font-family: 'Orbitron', sans-serif;">
 
   <!-- Título -->
@@ -6,7 +5,7 @@
 
   <!-- Imagen -->
   <p align="center">
-    <img src="imagenes/Fondo1.png" alt="GitHub" width="100%" height="150px" />
+    <img src="imagenes/Fondo1.png" alt="Fondo1" width="100%" height="150px" />
   </p>
 
   <!-- Navegación -->
@@ -31,7 +30,7 @@
   <h2><b>🔮 Áreas de Interés</b></h2>
   <ul style="color:#39FF14;">
     <li><b>🛡️ Ciberseguridad:</b> Encriptación, análisis de vulnerabilidades y protocolos de red.</li>
-    <li><b>💻 Programación:</b> Desarrollo utilizando Python, CSS, HTML, Java, y Go.</li>
+    <li><b>💻 Programación:</b> Desarrollo utilizando Python, CSS, HTML, Java y Go.</li>
     <li><b>📚 Aprendizaje Continuo:</b> Exploración de nuevas tecnologías, metodologías y tendencias.</li>
   </ul>
 
@@ -39,39 +38,37 @@
 
   <!-- Herramientas y Tecnologías -->
   <h2><b>⚙️ Herramientas y Tecnologías</b></h2>
-  <p align="center">
-    <table align="center" style="width:90%; border-spacing: 0; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); font-family: 'Orbitron', sans-serif; color:#39FF14; background: linear-gradient(135deg, #222222, #000000); border-radius: 10px; overflow: hidden;">
-      <thead style="background: #FF00FF; color: #000; font-weight: bold;">
-        <tr>
-          <th style="padding: 15px;">🚀 Lenguajes</th>
-          <th style="padding: 15px;">💾 Bases de Datos</th>
-          <th style="padding: 15px;">🛠️ Entornos</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
-          <td style="padding: 15px;">Python</td>
-          <td style="padding: 15px;">MongoDB</td>
-          <td style="padding: 15px;">Visual Studio Code</td>
-        </tr>
-        <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
-          <td style="padding: 15px;">HTML/CSS/Java</td>
-          <td style="padding: 15px;">SQL Server</td>
-          <td style="padding: 15px;">Windows/Linux</td>
-        </tr>
-        <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
-          <td style="padding: 15px;">Java</td>
-          <td style="padding: 15px;">Django</td>
-          <td style="padding: 15px;"></td>
-        </tr>
-        <tr style="text-align: center;">
-          <td style="padding: 15px;">Go</td>
-          <td style="padding: 15px;"></td>
-          <td style="padding: 15px;"></td>
-        </tr>
-      </tbody>
-    </table>
-  </p>
+  <table align="center" style="width:90%; border-spacing: 0; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); font-family: 'Orbitron', sans-serif; color:#39FF14; background: linear-gradient(135deg, #222222, #000000); border-radius: 10px; overflow: hidden;">
+    <thead style="background: #FF00FF; color: #000; font-weight: bold;">
+      <tr>
+        <th style="padding: 15px;">🚀 Lenguajes</th>
+        <th style="padding: 15px;">💾 Bases de Datos</th>
+        <th style="padding: 15px;">🛠️ Entornos</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+        <td style="padding: 15px;">Python</td>
+        <td style="padding: 15px;">MongoDB</td>
+        <td style="padding: 15px;">Visual Studio Code</td>
+      </tr>
+      <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+        <td style="padding: 15px;">HTML/CSS/Java</td>
+        <td style="padding: 15px;">SQL Server</td>
+        <td style="padding: 15px;">Windows/Linux</td>
+      </tr>
+      <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+        <td style="padding: 15px;">Java</td>
+        <td style="padding: 15px;">Django</td>
+        <td style="padding: 15px;">-</td>
+      </tr>
+      <tr style="text-align: center;">
+        <td style="padding: 15px;">Go</td>
+        <td style="padding: 15px;">-</td>
+        <td style="padding: 15px;">-</td>
+      </tr>
+    </tbody>
+  </table>
 
   <hr />
 
@@ -95,4 +92,10 @@
       <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/DUVAN-ANDRÉS-FLORIAN-SALAZAR/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%2300ace>
+      <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:tuemail@example.com">
+      <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</body>
