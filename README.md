@@ -31,32 +31,60 @@
 <p align="center">
   <table align="center" style="width:80%; border: 2px solid #0ff; border-collapse: collapse; font-family: 'Orbitron', sans-serif; color:#00FF9F;">
     <tr style="background-color:#333333; color:#00FFFF;">
-      <th>🌟 Lenguajes</th>
-      <th>🗄️ Bases de Datos</th>
-      <th>🔧 Entornos</th>
+      <th>🚀 Lenguajes</th>
+      <th>💾 Bases de Datos</th>
+      <th>🛠️ Entornos</th>
     </tr>
     <tr>
-      <td>🐍 Python</td>
-      <td>🗄️ MongoDB</td>
-      <td>🖥️ Visual Studio Code</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
+        Python
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" />
+        MongoDB
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="24" height="24" alt="Visual Studio Code" />
+        Visual Studio Code
+      </td>
     </tr>
     <tr>
-      <td>🌐 HTML/CSS/Java</td>
-      <td>📊 SQL Server</td>
-      <td>🔐 Windows/Linux</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML" />
+        HTML/CSS/Java
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="SQL Server" />
+        SQL Server
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24" alt="Linux" />
+        Windows/Linux
+      </td>
     </tr>
     <tr>
-      <td>☕ Java</td>
-      <td>🌟 Django</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24" alt="Java" />
+        Java
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" alt="Django" />
+        Django
+      </td>
       <td></td>
     </tr>
     <tr>
-      <td>🚀 Go</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="24" height="24" alt="Go" />
+        Go
+      </td>
       <td></td>
       <td></td>
     </tr>
   </table>
 </p>
+
 
 ---
 
