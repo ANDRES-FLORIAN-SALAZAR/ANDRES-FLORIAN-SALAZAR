@@ -116,11 +116,10 @@
   <p align="center" style="font-size: 16px;">
     <a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank">
       <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/duvan-andr%C3%A9s-florian-salazar-220135192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
-      <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:tuemail@example.com">
+    <a href="https://www.linkedin.com/in/duvan-andr%C3%A9s-florian-salazar-220135192">
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+    <a href="mailto:duvanfloriansalazar@gmail.com">
       <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
