@@ -77,6 +77,14 @@
         </td>
         <td style="padding: 15px;"></td>
       </tr>
+      <tr style="text-align: center; border-bottom: 1px solid #0ff;">
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C" />
+          <br />C
+        </td>
+        <td style="padding: 15px;"></td>
+        <td style="padding: 15px;"></td>
+      </tr>
       <tr style="text-align: center;">
         <td style="padding: 15px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" height="30" alt="Go" />
