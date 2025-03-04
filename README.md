@@ -36,39 +36,56 @@
 
   <hr />
 
-  <!-- Herramientas y Tecnologías -->
   <h2><b>⚙️ Herramientas y Tecnologías</b></h2>
-  <table align="center" style="width:90%; border-spacing: 0; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); font-family: 'Orbitron', sans-serif; color:#39FF14; background: linear-gradient(135deg, #222222, #000000); border-radius: 10px; overflow: hidden;">
-    <thead style="background: #FF00FF; color: #000; font-weight: bold;">
-      <tr>
-        <th style="padding: 15px;">🚀 Lenguajes</th>
-        <th style="padding: 15px;">💾 Bases de Datos</th>
-        <th style="padding: 15px;">🛠️ Entornos</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
-        <td style="padding: 15px;">Python</td>
-        <td style="padding: 15px;">MongoDB</td>
-        <td style="padding: 15px;">Visual Studio Code</td>
-      </tr>
-      <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
-        <td style="padding: 15px;">HTML/CSS/Java</td>
-        <td style="padding: 15px;">SQL Server</td>
-        <td style="padding: 15px;">Windows/Linux</td>
-      </tr>
-      <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
-        <td style="padding: 15px;">Java</td>
-        <td style="padding: 15px;">Django</td>
-        <td style="padding: 15px;">-</td>
-      </tr>
-      <tr style="text-align: center;">
-        <td style="padding: 15px;">Go</td>
-        <td style="padding: 15px;">-</td>
-        <td style="padding: 15px;">-</td>
-      </tr>
-    </tbody>
-  </table>
+<table align="center" style="width:90%; border-spacing: 0; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); font-family: 'Orbitron', sans-serif; color:#39FF14; background: linear-gradient(135deg, #222222, #000000); border-radius: 10px; overflow: hidden;">
+  <thead style="background: #FF00FF; color: #000; font-weight: bold;">
+    <tr>
+      <th style="padding: 15px;">🚀 Lenguajes</th>
+      <th style="padding: 15px;">💾 Bases de Datos</th>
+      <th style="padding: 15px;">🛠️ Entornos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+      <td style="padding: 15px;">
+        <img src="imagenes/python.png" alt="Python" width="50px"><br>Python
+      </td>
+      <td style="padding: 15px;">
+        <img src="imagenes/mongodb.png" alt="MongoDB" width="50px"><br>MongoDB
+      </td>
+      <td style="padding: 15px;">
+        <img src="imagenes/vscode.png" alt="Visual Studio Code" width="50px"><br>Visual Studio Code
+      </td>
+    </tr>
+    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+      <td style="padding: 15px;">
+        <img src="imagenes/htmlcssjava.png" alt="HTML/CSS/Java" width="50px"><br>HTML/CSS/Java
+      </td>
+      <td style="padding: 15px;">
+        <img src="imagenes/sqlserver.png" alt="SQL Server" width="50px"><br>SQL Server
+      </td>
+      <td style="padding: 15px;">
+        <img src="imagenes/windowslinux.png" alt="Windows/Linux" width="50px"><br>Windows/Linux
+      </td>
+    </tr>
+    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+      <td style="padding: 15px;">
+        <img src="imagenes/java.png" alt="Java" width="50px"><br>Java
+      </td>
+      <td style="padding: 15px;">
+        <img src="imagenes/django.png" alt="Django" width="50px"><br>Django
+      </td>
+      <td style="padding: 15px;">-</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td style="padding: 15px;">
+        <img src="imagenes/go.png" alt="Go" width="50px"><br>Go
+      </td>
+      <td style="padding: 15px;">-</td>
+      <td style="padding: 15px;">-</td>
+    </tr>
+  </tbody>
+</table>
 
   <hr />
 
