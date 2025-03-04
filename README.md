@@ -29,62 +29,65 @@
 
 ## ⚙️ Herramientas y Tecnologías
 <p align="center">
-  <table align="center" style="width:80%; border: 2px solid #0ff; border-collapse: collapse; font-family: 'Orbitron', sans-serif; color:#00FF9F;">
-    <tr style="background-color:#333333; color:#00FFFF;">
-      <th>🚀 Lenguajes</th>
-      <th>💾 Bases de Datos</th>
-      <th>🛠️ Entornos</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
-        Python
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" />
-        MongoDB
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="24" height="24" alt="Visual Studio Code" />
-        Visual Studio Code
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML" />
-        HTML/CSS/Java
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="SQL Server" />
-        SQL Server
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24" alt="Linux" />
-        Windows/Linux
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24" alt="Java" />
-        Java
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" alt="Django" />
-        Django
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="24" height="24" alt="Go" />
-        Go
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
+  <table align="center" style="width:90%; border-spacing: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); font-family: 'Orbitron', sans-serif; color:#00FFFF; background: linear-gradient(135deg, #333333, #222222); border-radius: 10px; overflow: hidden;">
+    <thead style="background: #0ff; color: #000; font-weight: bold;">
+      <tr>
+        <th style="padding: 15px;">🚀 Lenguajes</th>
+        <th style="padding: 15px;">💾 Bases de Datos</th>
+        <th style="padding: 15px;">🛠️ Entornos</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="text-align: center; border-bottom: 1px solid #0ff;">
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
+          <br />Python
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB" />
+          <br />MongoDB
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30" alt="Visual Studio Code" />
+          <br />Visual Studio Code
+        </td>
+      </tr>
+      <tr style="text-align: center; border-bottom: 1px solid #0ff;">
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML" />
+          <br />HTML/CSS/Java
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL Server" />
+          <br />SQL Server
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" />
+          <br />Windows/Linux
+        </td>
+      </tr>
+      <tr style="text-align: center; border-bottom: 1px solid #0ff;">
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java" />
+          <br />Java
+        </td>
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30" alt="Django" />
+          <br />Django
+        </td>
+        <td style="padding: 15px;"></td>
+      </tr>
+      <tr style="text-align: center;">
+        <td style="padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" height="30" alt="Go" />
+          <br />Go
+        </td>
+        <td style="padding: 15px;"></td>
+        <td style="padding: 15px;"></td>
+      </tr>
+    </tbody>
   </table>
 </p>
-
 
 ---
 
