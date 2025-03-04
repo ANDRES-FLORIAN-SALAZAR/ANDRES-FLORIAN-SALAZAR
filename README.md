@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola a Todos! Soy Duvan Andrés Florian Salazar 🌟</h1>
 
 ## 
-  <img src="imagenes/fondo.jpeg" alt="GitHub" width="200px" height="60px" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+  ![Ciberseguridad](https://i.imgur.com/6i7Pp1d.png "Ciberseguridad")
 
 ##
 <h4 align="center"> <b>| <a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> |
