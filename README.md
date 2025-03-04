@@ -1,7 +1,7 @@
 <h1 align="center">Soy Duvan Andrés Florian Salazar 🌟</h1>
 
 ## 
- <img src="imagenes/Fondo1.jpeg" alt="GitHub" width="100%" height="150px" />
+ <img src="imagenes/Fondo1.png" alt="GitHub" width="100%" height="150px" />
 
 ##
 <h4 align="center"> <b>| <a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> |
