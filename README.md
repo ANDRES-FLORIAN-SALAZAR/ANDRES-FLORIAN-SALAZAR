@@ -41,13 +41,13 @@
   <thead style="background: #FF00FF; color: #000; font-weight: bold;">
     <tr>
       <th style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" alt="Lenguajes" width="40px"><br>🚀 Lenguajes
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" alt="Lenguajes" width="40px"><br>Lenguajes
       </th>
       <th style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" alt="Bases de Datos" width="40px"><br>💾 Bases de Datos
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" alt="Bases de Datos" width="40px"><br>Bases de Datos
       </th>
       <th style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" alt="Entornos" width="40px"><br>🛠️ Entornos
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" alt="Entornos" width="40px"><br>Entornos
       </th>
     </tr>
   </thead>
