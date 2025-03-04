@@ -62,13 +62,14 @@
 
 ## ✨ Proyectos Relevantes
 <ul style="font-family: 'Orbitron', sans-serif; color:#00FFFF;">
-  <li>**ALPHA_WEB:** Creación de un codificador de contraseñas y un entorno de seguridad.</li>
-  <li>**PRUEBAS_SOFTWARE:** Pruebas de seguridad para aplicaciones y sistemas.</li>
-  <li>**TWITTER2:** Crear endpoints con respuesta de la aplicación utilizando MongoDB.</li>
-  <li>**nosql_taller5:** Uso y aprendizaje práctico de bases de datos NoSQL.</li>
-  <li>**TALLER-SQL:** Manejo avanzado de SQL Server para proyectos de análisis y desarrollo.</li>
-  <li>**AJEDREZ:** Creación básica de un juego de ajedrez con enfoque en lógica y diseño.</li>
+  <li><b>ALPHA_WEB:</b> Creación de un codificador de contraseñas y un entorno de seguridad.</li>
+  <li><b>PRUEBAS_SOFTWARE:</b> Pruebas de seguridad para aplicaciones y sistemas.</li>
+  <li><b>TWITTER2:</b> Crear endpoints con respuesta de la aplicación utilizando MongoDB.</li>
+  <li><b>nosql_taller5:</b> Uso y aprendizaje práctico de bases de datos NoSQL.</li>
+  <li><b>TALLER-SQL:</b> Manejo avanzado de SQL Server para proyectos de análisis y desarrollo.</li>
+  <li><b>AJEDREZ:</b> Creación básica de un juego de ajedrez con enfoque en lógica y diseño.</li>
 </ul>
+
 
 ---
 
