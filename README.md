@@ -4,7 +4,8 @@
  <img src="imagenes/Fondo1.png" alt="GitHub" width="100%" height="150px" />
 
 ##
-<h4 align="center"> <b>| <a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> |
+<h4 align="center"> 
+|<b><a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> |
 | <b><a href="#programacion">💻 Programación</a></b> | 
 | <a href="#contacto">✉️ Contacto</a> | 
 | <a href="#proyectos">📂 Proyectos</a> |</h4>
