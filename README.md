@@ -20,10 +20,13 @@
 - **📚 Aprendizaje Continuo:** Exploración de nuevas tecnologías, metodologías y tendencias.
 
 ## ⚒️ Herramientas y Tecnologías
-| **Lenguajes**        | **Bases de Datos**  | **Entornos**               |
-|-----------------------|---------------------|----------------------------|
+## ⚒️ Herramientas y Tecnologías
+| **Lenguajes**        | **Bases de Datos**  | **Entornos**                |
+|----------------------|---------------------|-----------------------------|
 | 🐍 Python            | 🗄️ MongoDB         | 🖥️ Visual Studio Code      |
-| 🌐 HTML/CSS/Java     | 📊 SQL Server       | 🔐 Windows/Linux           |
+| 🌐 HTML/CSS/Java     | 📊 SQL Server      | 🔐 Windows/Linux           |
+| ☕ Java              | 🌟 Django          |                         	  |
+| 🚀 Go                |		                  |                            |
 
 ## 🌟 Proyectos Relevantes
 - **ALPHA_WEB:** Creación de un codificador de contraseñas y un entorno de seguridad.
