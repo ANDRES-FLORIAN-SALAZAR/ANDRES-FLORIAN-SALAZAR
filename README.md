@@ -36,7 +36,7 @@
 
   <hr />
 
-  <h2><b>⚙️ Herramientas y Tecnologías</b></h2>
+ <h2><b>⚙️ Herramientas y Tecnologías</b></h2>
 <table align="center" style="width:90%; border-spacing: 0; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); font-family: 'Orbitron', sans-serif; color:#39FF14; background: linear-gradient(135deg, #222222, #000000); border-radius: 10px; overflow: hidden;">
   <thead style="background: #FF00FF; color: #000; font-weight: bold;">
     <tr>
@@ -48,38 +48,38 @@
   <tbody>
     <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
       <td style="padding: 15px;">
-        <img src="imagenes/python.png" alt="Python" width="50px"><br>Python
+        <img src="imagenes/python_logo.png" alt="Python" width="50px"><br>Python
       </td>
       <td style="padding: 15px;">
-        <img src="imagenes/mongodb.png" alt="MongoDB" width="50px"><br>MongoDB
+        <img src="imagenes/mongodb_logo.png" alt="MongoDB" width="50px"><br>MongoDB
       </td>
       <td style="padding: 15px;">
-        <img src="imagenes/vscode.png" alt="Visual Studio Code" width="50px"><br>Visual Studio Code
-      </td>
-    </tr>
-    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
-      <td style="padding: 15px;">
-        <img src="imagenes/htmlcssjava.png" alt="HTML/CSS/Java" width="50px"><br>HTML/CSS/Java
-      </td>
-      <td style="padding: 15px;">
-        <img src="imagenes/sqlserver.png" alt="SQL Server" width="50px"><br>SQL Server
-      </td>
-      <td style="padding: 15px;">
-        <img src="imagenes/windowslinux.png" alt="Windows/Linux" width="50px"><br>Windows/Linux
+        <img src="imagenes/vscode_logo.png" alt="Visual Studio Code" width="50px"><br>Visual Studio Code
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
       <td style="padding: 15px;">
-        <img src="imagenes/java.png" alt="Java" width="50px"><br>Java
+        <img src="imagenes/html_css_js_logo.png" alt="HTML/CSS/Java" width="50px"><br>HTML/CSS/Java
       </td>
       <td style="padding: 15px;">
-        <img src="imagenes/django.png" alt="Django" width="50px"><br>Django
+        <img src="imagenes/sqlserver_logo.png" alt="SQL Server" width="50px"><br>SQL Server
+      </td>
+      <td style="padding: 15px;">
+        <img src="imagenes/windows_linux_logo.png" alt="Windows/Linux" width="50px"><br>Windows/Linux
+      </td>
+    </tr>
+    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+      <td style="padding: 15px;">
+        <img src="imagenes/java_logo.png" alt="Java" width="50px"><br>Java
+      </td>
+      <td style="padding: 15px;">
+        <img src="imagenes/django_logo.png" alt="Django" width="50px"><br>Django
       </td>
       <td style="padding: 15px;">-</td>
     </tr>
     <tr style="text-align: center;">
       <td style="padding: 15px;">
-        <img src="imagenes/go.png" alt="Go" width="50px"><br>Go
+        <img src="imagenes/go_logo.png" alt="Go" width="50px"><br>Go
       </td>
       <td style="padding: 15px;">-</td>
       <td style="padding: 15px;">-</td>
