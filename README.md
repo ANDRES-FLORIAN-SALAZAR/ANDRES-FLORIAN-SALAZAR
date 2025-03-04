@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola a Todos! Soy Duvan Andrés Florian Salazar 🌟</h1>
 
-## 🌐 Encuéntrame en GitHub
-<a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank">
-  <img src="imagenes/fondo.jpeg" alt="GitHub" />
-</a>
+## 
+  <img src="imagenes/fondo.jpeg" alt="GitHub" width="100%" height="150px" />
 
 ##
 <h4 align="center"> <b>| <a href="#ciberseguridad">🛡️ Ciberseguridad</a></b> |
