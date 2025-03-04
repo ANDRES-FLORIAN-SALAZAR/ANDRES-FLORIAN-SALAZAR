@@ -1,7 +1,7 @@
-<body style="background-color: #000; color: #00FFFF; font-family: 'Orbitron', sans-serif;">
+<body style="background-color: #ffffff; color: #000000; font-family: 'Arial', sans-serif;">
 
   <!-- Título -->
-  <h1 align="center" style="color:#39ff14;"><b>🚀 Soy Duvan Andrés Florian Salazar 🌌</b></h1>
+  <h1 align="center" style="color:#000000;"><b>🚀 Soy Duvan Andrés Florian Salazar 🌌</b></h1>
 
   <!-- Imagen -->
   <p align="center">
@@ -9,18 +9,18 @@
   </p>
 
   <!-- Navegación -->
-  <h4 align="center" style="color:#FF00FF;">
-    | <b><a href="#ciberseguridad" style="color:#FF00FF;">🛡️ Ciberseguridad</a></b> |
-    <b><a href="#programacion" style="color:#FF00FF;">💻 Programación</a></b> |
-    <b><a href="#contacto" style="color:#FF00FF;">✉️ Contacto</a></b> |
-    <b><a href="#proyectos" style="color:#FF00FF;">📂 Proyectos</a></b> |
+  <h4 align="center" style="color:#000000;">
+    | <b><a href="#ciberseguridad" style="color:#0000FF;">🛡️ Ciberseguridad</a></b> |
+    <b><a href="#programacion" style="color:#0000FF;">💻 Programación</a></b> |
+    <b><a href="#contacto" style="color:#0000FF;">✉️ Contacto</a></b> |
+    <b><a href="#proyectos" style="color:#0000FF;">📂 Proyectos</a></b> |
   </h4>
 
   <hr />
 
   <!-- Introducción -->
   <h2><b>🌠 Introducción</b></h2>
-  <p style="color:#00FFFF; text-align:justify;">
+  <p style="color:#000000; text-align:justify;">
     ¡Bienvenidos a mi mundo! Soy un apasionado explorador del vasto universo de la ciberseguridad y la programación. Mi enfoque principal está en proteger, construir y comprender cómo la tecnología puede transformar el mundo.
   </p>
 
@@ -28,7 +28,7 @@
 
   <!-- Áreas de Interés -->
   <h2><b>🔮 Áreas de Interés</b></h2>
-  <ul style="color:#39FF14;">
+  <ul style="color:#000000;">
     <li><b>🛡️ Ciberseguridad:</b> Encriptación, análisis de vulnerabilidades y protocolos de red.</li>
     <li><b>💻 Programación:</b> Desarrollo utilizando Python, CSS, HTML, Java y Go.</li>
     <li><b>📚 Aprendizaje Continuo:</b> Exploración de nuevas tecnologías, metodologías y tendencias.</li>
@@ -106,7 +106,7 @@
 
   <!-- Proyectos Relevantes -->
   <h2><b>✨ Proyectos Relevantes</b></h2>
-  <ul style="color:#00FFFF;">
+  <ul style="color:#000000;">
     <li><b>ALPHA_WEB:</b> Creación de un codificador de contraseñas y un entorno de seguridad.</li>
     <li><b>PRUEBAS_SOFTWARE:</b> Pruebas de seguridad para aplicaciones y sistemas.</li>
     <li><b>TWITTER2:</b> Crear endpoints con respuesta de la aplicación utilizando MongoDB.</li>
