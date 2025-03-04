@@ -37,22 +37,22 @@
   <hr />
 
  <h2><b>⚙️ Herramientas y Tecnologías</b></h2>
-<table align="center" style="width:70%; border-spacing: 0; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); font-family: 'Orbitron', sans-serif; color:#39FF14; background: linear-gradient(135deg, #222222, #000000); border-radius: 10px; overflow: hidden;">
-  <thead style="background: #FF00FF; color: #000; font-weight: bold;">
+<table align="center" style="width:70%; border-spacing: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; color: #333; background: #f9f9f9; border-radius: 10px; overflow: hidden; border: 1px solid #ddd;">
+  <thead style="background: #f1f1f1; color: #000; font-weight: bold;">
     <tr>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/code.png" alt="Lenguajes" width="40px"><br>Lenguajes
+        <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Lenguajes" width="40px"><br>Lenguajes
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/database.png" alt="Bases de Datos" width="40px"><br>Bases de Datos
+        <img src="https://img.icons8.com/color/48/000000/database.png" alt="Bases de Datos" width="40px"><br>Bases de Datos
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/settings.png" alt="Entornos" width="40px"><br>Entornos
+        <img src="https://img.icons8.com/color/48/000000/settings.png" alt="Entornos" width="40px"><br>Entornos
       </th>
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px"><br>Python
       </td>
@@ -63,7 +63,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30px"><br>Visual Studio Code
       </td>
     </tr>
-    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30px"><br>HTML
       </td>
@@ -74,7 +74,7 @@
         <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="30px"><br>Windows
       </td>
     </tr>
-    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30px"><br>CSS
       </td>
@@ -85,7 +85,7 @@
         <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="30px"><br>Linux
       </td>
     </tr>
-    <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px"><br>Java
       </td>
