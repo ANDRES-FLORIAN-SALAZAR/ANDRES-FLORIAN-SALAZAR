@@ -1,3 +1,72 @@
+<head>
+  <style>
+    /* Efecto en enlaces (hover con neón) */
+    a:hover {
+      color: #FF00FF;
+      text-shadow: 0px 0px 5px #FF00FF, 0px 0px 15px #FF00FF;
+      transition: text-shadow 0.3s ease, color 0.3s ease;
+    }
+
+    /* Efecto "zoom in" en imágenes */
+    img:hover {
+      transform: scale(1.1);
+      transition: transform 0.3s ease-in-out;
+      box-shadow: 0px 0px 10px #00FFFF, 0px 0px 20px #FF00FF;
+      border-radius: 10px;
+    }
+
+    /* Animación en títulos (cambio de color lento) */
+    h1, h2, h3 {
+      animation: glow 2s infinite alternate;
+    }
+
+    @keyframes glow {
+      0% {
+        color: #39FF14;
+        text-shadow: 0px 0px 5px #39FF14, 0px 0px 15px #39FF14;
+      }
+      100% {
+        color: #FF00FF;
+        text-shadow: 0px 0px 5px #FF00FF, 0px 0px 15px #FF00FF;
+      }
+    }
+
+    /* Botones flotantes con animación */
+    button {
+      background: linear-gradient(135deg, #FF00FF, #39FF14);
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      font-family: 'Orbitron', sans-serif;
+      color: #000;
+      border-radius: 25px;
+      cursor: pointer;
+      box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.3);
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    button:hover {
+      transform: translateY(-5px);
+      box-shadow: 0px 8px 15px rgba(255, 255, 255, 0.5);
+    }
+
+    /* Efecto de luz en la tabla */
+    table {
+      box-shadow: 0px 0px 10px #FF00FF, 0px 0px 20px #39FF14;
+      transition: box-shadow 0.3s ease-in-out;
+    }
+
+    table:hover {
+      box-shadow: 0px 0px 20px #FF00FF, 0px 0px 40px #39FF14;
+    }
+
+    /* Efecto en las filas de tabla (hover) */
+    table tr:hover {
+      background: rgba(57, 255, 20, 0.1);
+      transition: background 0.3s ease;
+    }
+  </style>
+</head>
 <body style="background-color: #000; color: #00FFFF; font-family: 'Orbitron', sans-serif;">
 
 <h1 align="center" style="color:#39ff14;">🚀 Soy Duvan Andrés Florian Salazar 🌌</h1>
@@ -98,39 +167,4 @@
         <td style="padding: 15px;"></td>
       </tr>
     </tbody>
-  </table>
-</p>
 
----
-
-## ✨ Proyectos Relevantes
-<ul style="color:#00FFFF;">
-  <li><b>ALPHA_WEB:</b> Creación de un codificador de contraseñas y un entorno de seguridad.</li>
-  <li><b>PRUEBAS_SOFTWARE:</b> Pruebas de seguridad para aplicaciones y sistemas.</li>
-  <li><b>TWITTER2:</b> Crear endpoints con respuesta de la aplicación utilizando MongoDB.</li>
-  <li><b>nosql_taller5:</b> Uso y aprendizaje práctico de bases de datos NoSQL.</li>
-  <li><b>TALLER-SQL:</b> Manejo avanzado de SQL Server para proyectos de análisis y desarrollo.</li>
-  <li><b>AJEDREZ:</b> Creación básica de un juego de ajedrez con enfoque en lógica y diseño.</li>
-</ul>
-
----
-
-## 🌌 Encuéntrame en
-<p align="center">
-  <a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/DUVAN-ANDRÉS-FLORIAN-SALAZAR/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:duvanfloriansalazar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center" style="color:#39FF14;">
-¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos innovadores y emocionantes. No dudes en contactarme. 😊
-</p>
-</body>
