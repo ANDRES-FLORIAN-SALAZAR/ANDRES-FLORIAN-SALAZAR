@@ -164,6 +164,4 @@
           <br />Go
         </td>
         <td style="padding: 15px;"></td>
-        <td style="padding: 15px;"></td>
-      </tr>
-    </tbody>
+        <td style>
