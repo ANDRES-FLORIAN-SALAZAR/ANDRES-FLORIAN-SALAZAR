@@ -41,13 +41,13 @@
   <thead style="background: #FF00FF; color: #000; font-weight: bold;">
     <tr>
       <th style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" alt="Lenguajes" width="40px"><br>Lenguajes
+        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/code.png" alt="Lenguajes" width="40px"><br>Lenguajes
       </th>
       <th style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" alt="Bases de Datos" width="40px"><br>Bases de Datos
+        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/database.png" alt="Bases de Datos" width="40px"><br>Bases de Datos
       </th>
       <th style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" alt="Entornos" width="40px"><br>Entornos
+        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/settings.png" alt="Entornos" width="40px"><br>Entornos
       </th>
     </tr>
   </thead>
@@ -71,7 +71,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL Server" width="30px"><br>SQL Server
       </td>
       <td style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="30px"><br>Windows
+        <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="30px"><br>Windows
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
@@ -82,7 +82,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30px"><br>Django
       </td>
       <td style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px"><br>Linux
+        <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="30px"><br>Linux
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #FF00FF;">
