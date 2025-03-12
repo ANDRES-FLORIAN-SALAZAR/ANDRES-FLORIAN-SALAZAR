@@ -1,5 +1,11 @@
 <body style="background-color: #ffffff; color: #000000; font-family: 'Arial', sans-serif;">
 
+  <!-- Contador de visitas -->
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg" />
+  </p>
+
   <!-- Título -->
   <h1 align="center" style="color:#000000;"><b>🚀 Soy Duvan Andrés Florian Salazar 🌌</b></h1>
 
@@ -8,12 +14,6 @@
     <img src="imagenes/Fondo1.png" alt="Fondo1" width="100%" height="150px" />
   </p>
 
-<!-- Contador de visitas -->
-  <p align="center"> 
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg" />
-  </p>
-  
   <!-- Navegación -->
   <h4 align="center" style="color:#000000;">
     | <b><a href="#ciberseguridad" style="color:#0000FF;">🛡️ Ciberseguridad</a></b> |
@@ -130,19 +130,11 @@
     </a>
   </p>
 
+  <!-- Estadísticas de GitHub -->
+  <p align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=ANDRES-FLORIAN-SALAZAR&theme=bear&showIcons=true">
+      <img alt="Duvan Andrés Florian Salazar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ANDRES-FLORIAN-SALAZAR?theme=bear" />
+    </a>
+  </p>
+
 </body>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-      </td>
-    </tr>
-  </table>
-
-</div>
