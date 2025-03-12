@@ -1,11 +1,5 @@
 <body style="background-color: #ffffff; color: #000000; font-family: 'Arial', sans-serif;">
 
-  <!-- Contador de visitas -->
-  <p align="center"> 
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg" />
-  </p>
-
   <!-- Título -->
   <h1 align="center" style="color:#000000;"><b>🚀 Soy Duvan Andrés Florian Salazar 🌌</b></h1>
 
@@ -14,6 +8,12 @@
     <img src="imagenes/Fondo1.png" alt="Fondo1" width="100%" height="150px" />
   </p>
 
+<!-- Contador de visitas -->
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg" />
+  </p>
+  
   <!-- Navegación -->
   <h4 align="center" style="color:#000000;">
     | <b><a href="#ciberseguridad" style="color:#0000FF;">🛡️ Ciberseguridad</a></b> |
