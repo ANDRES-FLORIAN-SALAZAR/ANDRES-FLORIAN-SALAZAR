@@ -1,5 +1,11 @@
 <body style="background-color: #ffffff; color: #000000; font-family: 'Arial', sans-serif;">
 
+  <!-- Contador de visitas -->
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  </p>
+
   <!-- Título -->
   <h1 align="center" style="color:#000000;"><b>🚀 Soy Duvan Andrés Florian Salazar 🌌</b></h1>
 
