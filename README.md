@@ -47,13 +47,66 @@
   <hr style="border: none; height: 2px; background: #ddd; margin: 20px 0;" />
 
   <!-- Herramientas y Tecnologías -->
-  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">⚙️ Herramientas y Tecnologías</h2>
-  <!-- Tabla de herramientas conservada -->
+  <h2><b>⚙️ Herramientas y Tecnologías</b></h2>
   <table align="center" style="width:70%; border-spacing: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; color: #333; background: #f9f9f9; border-radius: 10px; border: 1px solid #ddd; font-size: 14px;">
-    ... <!-- Tu tabla original se mantiene intacta -->
+    <thead style="background: #f1f1f1; color: #000; font-weight: bold;">
+      <tr>
+        <th style="padding: 8px;">
+          <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Lenguajes" width="24px"><br>Lenguajes
+        </th>
+        <th style="padding: 8px;">
+          <img src="https://img.icons8.com/color/48/000000/database.png" alt="Bases de Datos" width="24px"><br>Bases de Datos
+        </th>
+        <th style="padding: 8px;">
+          <img src="https://img.icons8.com/color/48/000000/settings.png" alt="Entornos" width="24px"><br>Entornos
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20px"><br>Python
+        </td>
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20px"><br>MongoDB
+        </td>
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="20px"><br>Visual Studio Code
+        </td>
+      </tr>
+      <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20px"><br>HTML
+        </td>
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL Server" width="20px"><br>SQL Server
+        </td>
+        <td style="padding: 8px;">
+          <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="20px"><br>Windows
+        </td>
+      </tr>
+      <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20px"><br>CSS
+        </td>
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="20px"><br>Django
+        </td>
+        <td style="padding: 8px;">
+          <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20px"><br>Linux
+        </td>
+      </tr>
+      <tr style="text-align: center;">
+        <td style="padding: 8px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20px"><br>Java
+        </td>
+        <td style="padding: 8px;">-</td>
+        <td style="padding: 8px;">-</td>
+      </tr>
+    </tbody>
   </table>
 
-  <hr style="border: none; height: 2px; background: #ddd; margin: 20px 0;" />
+  <hr />
 
   <!-- Proyectos Relevantes -->
   <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">✨ Proyectos Relevantes</h2>
