@@ -114,7 +114,7 @@
     <li><b>ALPHA_WEB:</b> Creación de un codificador de contraseñas y un entorno de seguridad.</li>
     <li><b>PRUEBAS_SOFTWARE:</b> Pruebas de seguridad para aplicaciones y sistemas.</li>
     <li><b>TWITTER2:</b> Creación de endpoints con respuestas utilizando MongoDB.</li>
-    <li><b>nosql_taller5:</b> Uso y aprendizaje práctico de bases de datos NoSQL.</li>
+    <li><b>NOSQL_TALLER5:</b> Uso y aprendizaje práctico de bases de datos NoSQL.</li>
     <li><b>TALLER-SQL:</b> Manejo avanzado de SQL Server para análisis y desarrollo.</li>
     <li><b>AJEDREZ:</b> Creación básica de un juego de ajedrez con lógica y diseño.</li>
   </ul>
