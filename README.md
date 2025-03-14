@@ -134,18 +134,18 @@
       <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-
-  <!-- Tarjetas debajo -->
-  <div align="center" style="margin: 20px;">
-    <table>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-        </td>
-      </tr>
-    </table>
-  </div>
+  
+ <!-- Tarjetas debajo -->
+<div align="center" style="margin: 20px;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+      </td>
+    </tr>
+  </table>
+</div>
 </body>
