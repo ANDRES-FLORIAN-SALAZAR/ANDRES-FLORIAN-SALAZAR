@@ -139,19 +139,11 @@
 <div align="center" style="margin: 20px;">
   <table>
     <tr>
-      <!-- Tarjeta 1 personalizada -->
-      <td style="position: relative; text-align: center;">
-        <div style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%);">
-          <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub Icon" width="60" />
-        </div>
-        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="180" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="stats graph" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
       </td>
-<!-- Tarjeta 2 personalizada -->
-      <td style="position: relative; text-align: center;">
-        <div style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%);">
-          <img src="https://img.icons8.com/fluency/96/code-file.png" alt="Code Icon" width="60" />
-        </div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="180" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="languages graph" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
       </td>
     </tr>
   </table>
