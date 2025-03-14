@@ -1,6 +1,4 @@
-¡Claro! Aquí tienes una versión mejorada y más llamativa de tu perfil, con un diseño más moderno y atractivo, utilizando colores vibrantes, animaciones y una estructura más dinámica:
-
-```html
+html
 <body style="background-color: #0a192f; color: #ccd6f6; font-family: 'Arial', sans-serif; margin: 0; padding: 0;">
 
   <!-- Título con animación -->
