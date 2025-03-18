@@ -7,7 +7,7 @@
 
   <!-- Imagen -->
   <p align="center" style="margin: 20px 0;">
-    <img src="imagenes/1.jpg" alt="1" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
+    <img src="imagenes/2.jpg" alt="1" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
   </p>
 
   <!-- Contador de visitas -->
