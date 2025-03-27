@@ -2,7 +2,7 @@
 
   <!-- Título -->
   <h1 align="center" style="color:#222; font-size: 2.8em; margin-top: 20px; text-transform: uppercase;">
-    🚀 Soy Duvan Andrés Florian Salazar 🌌
+    🚀 Duvan Andrés Florian Salazar 🌌
   </h1>
 
   <!-- Imagen -->
