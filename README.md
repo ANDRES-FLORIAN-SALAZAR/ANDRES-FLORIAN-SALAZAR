@@ -58,63 +58,63 @@
         <img src="https://img.icons8.com/color/48/test-passed.png" width="24px" alt="Pruebas"><br>Pruebas
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-security-cyber-security-flatart-icons-outline-flatarticons.png" width="24px"><br>Seguridad
+        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-security-cyber-security-flatart-icons-outline-flatarticons.png" width="24px" alt="Seguridad"><br>Seguridad
       </th>
     </tr>
   </thead>
   <tbody>
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"><br>Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24px"><br>Python
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20px"><br>PostgreSQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24px"><br>PostgreSQL
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24px"><br>VS Code
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Pytest_logo.svg" width="20px"><br>Pytest
+        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-pytest-devops-flatart-icons-outline-flatarticons.png" width="24px" alt="Pytest"><br>Pytest
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/charliermarsh/ruff/main/logo.svg" width="24px"><br>Ruff
-      </td>
-    </tr>
-    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"><br>Java
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20px"><br>SQLite3
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/unittest/unittest.png" width="20px"><br>Unittest
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/PyCQA/bandit/main/logo.png" width="24px"><br>Bandit
+        <img src="https://raw.githubusercontent.com/charliermarsh/ruff/main/docs/logo-light.svg" width="24px" alt="Ruff"><br>Ruff
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"><br>HTML
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24px"><br>Java
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20px"><br>MongoDB
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="24px"><br>SQLite3
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24px"><br>Linux
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/unittest/unittest.png" width="24px" alt="Unittest"><br>Unittest
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/PyCQA/bandit/main/logo.png" width="24px" alt="Bandit"><br>Bandit
+      </td>
+    </tr>
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24px"><br>HTML
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24px"><br>MongoDB
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24px"><br>Django
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="24px" alt="Selenium"><br>Selenium
       </td>
       <td>–</td>
     </tr>
     <tr style="text-align: center;">
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"><br>CSS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24px"><br>CSS
       </td>
       <td>–</td>
       <td>–</td>
