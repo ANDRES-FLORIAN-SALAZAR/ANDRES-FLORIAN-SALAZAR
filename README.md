@@ -6,14 +6,12 @@
   </h1>
 
   <!-- Imagen -->
-  <p align="center" style="margin: 20px 0;">
-    <img src="Imagenes/Fondo1.png" alt="Fondo2" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
-  </p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANDRES-FLORIAN-SALAZAR&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false"/>
 
-  <!-- ✅ CONTADOR ACTUALIZADO Y FUNCIONAL -->
+<!-- Contador -->
 <p align="center" style="font-size: 1.2em; margin: 10px 0;"> 
   <b>Visitor count</b><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANDRES-FLORIAN-SALAZAR&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fduvan-visitas-demo.com&count_bg=%23FF6347&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visitas&edge_flat=false"/>
 </p>
 
   <!-- Navegación -->
