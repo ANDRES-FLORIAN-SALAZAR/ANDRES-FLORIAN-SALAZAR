@@ -10,12 +10,6 @@
     <img src="Imagenes/Fondo1.png" alt="Fondo2" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
   </p>
 
-  <!-- Contador de visitas -->
-  <p align="center" style="font-size: 1.2em; margin: 10px 0;"> 
-    <b>Visitor count</b><br>
-    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg" />
-  </p>
-
   <!-- Navegación -->
   <div align="center" style="margin: 20px 0;">
     <nav style="display: inline-block; background-color: #fff; padding: 10px 20px; border-radius: 50px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
