@@ -13,7 +13,7 @@
   <!-- Contador de visitas -->
   <p align="center" style="font-size: 1.2em; margin: 10px 0;"> 
     <b>Visitor count</b><br>
-    <img src="https://profile-counter.glitch.me/[ANDRES-FLORIAN-SALAZAR](https://github.com/ANDRES-FLORIAN-SALAZAR)/count.svg" />
+    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg" />
   </p>
 
   <!-- Navegación -->
