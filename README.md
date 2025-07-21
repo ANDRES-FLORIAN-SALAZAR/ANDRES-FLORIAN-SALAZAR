@@ -42,63 +42,84 @@
 
   <!-- Herramientas y Tecnologías -->
   <h2><b>⚙️ Herramientas y Tecnologías</b></h2>
-  <table align="center" style="width:70%; border-spacing: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; color: #333; background: #f9f9f9; border-radius: 10px; border: 1px solid #ddd; font-size: 14px;">
-    <thead style="background: #f1f1f1; color: #000; font-weight: bold;">
-      <tr>
-        <th style="padding: 8px;">
-          <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Lenguajes" width="24px"><br>Lenguajes
-        </th>
-        <th style="padding: 8px;">
-          <img src="https://img.icons8.com/color/48/000000/database.png" alt="Bases de Datos" width="24px"><br>Bases de Datos
-        </th>
-        <th style="padding: 8px;">
-          <img src="https://img.icons8.com/color/48/000000/settings.png" alt="Entornos" width="24px"><br>Entornos
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20px"><br>Python
-        </td>
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20px"><br>MongoDB
-        </td>
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="20px"><br>Visual Studio Code
-        </td>
-      </tr>
-      <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20px"><br>HTML
-        </td>
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL Server" width="20px"><br>SQL Server
-        </td>
-        <td style="padding: 8px;">
-          <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="20px"><br>Windows
-        </td>
-      </tr>
-      <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20px"><br>CSS
-        </td>
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="20px"><br>Django
-        </td>
-        <td style="padding: 8px;">
-          <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20px"><br>Linux
-        </td>
-      </tr>
-      <tr style="text-align: center;">
-        <td style="padding: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20px"><br>Java
-        </td>
-        <td style="padding: 8px;">-</td>
-        <td style="padding: 8px;">-</td>
-      </tr>
-    </tbody>
-  </table>
+<table align="center" style="width:95%; border-spacing: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; color: #333; background: #f9f9f9; border-radius: 10px; border: 1px solid #ddd; font-size: 14px;">
+  <thead style="background: #f1f1f1; color: #000; font-weight: bold;">
+    <tr>
+      <th style="padding: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Lenguajes" width="24px"><br>Lenguajes
+      </th>
+      <th style="padding: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/database.png" alt="Bases de Datos" width="24px"><br>Bases de Datos
+      </th>
+      <th style="padding: 10px;">
+        <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-terminal-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="Entornos" width="24px"><br>Entornos
+      </th>
+      <th style="padding: 10px;">
+        <img src="https://img.icons8.com/color/48/test-passed.png" alt="Pruebas y Seguridad" width="24px"><br>Pruebas y Seguridad
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20px"><br>Python
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20px"><br>PostgreSQL
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="20px"><br>VS Code
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-pytest-devops-flatart-icons-outline-flatarticons.png" alt="Pytest" width="20px"><br>Pytest
+      </td>
+    </tr>
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20px"><br>Java
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite3" width="20px"><br>SQLite3
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20px"><br>Linux
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://img.icons8.com/external-outline-juicy-fish/60/external-unit-test-coding-and-development-outline-outline-juicy-fish.png" alt="Unittest" width="20px"><br>Unittest
+      </td>
+    </tr>
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20px"><br>HTML
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20px"><br>MongoDB
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="20px"><br>Django
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/test-automation.png" alt="Selenium" width="20px"><br>Selenium
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20px"><br>CSS
+      </td>
+      <td style="padding: 10px;">-</td>
+      <td style="padding: 10px;">-</td>
+      <td style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/charliermarsh/ruff/main/docs/logo-light.svg" alt="Ruff" width="20px"><br>Ruff
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td colspan="3"></td>
+      <td style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/PyCQA/bandit/main/logo.png" alt="Bandit" width="20px"><br>Bandit
+      </td>
+    </tr>
+  </tbody>
+</table>
 
   <hr />
 
