@@ -58,7 +58,7 @@
         <img src="https://img.icons8.com/color/48/test-passed.png" width="24px" alt="Pruebas"><br>Pruebas
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-security-cyber-security-flatart-icons-outline-flatarticons.png" width="24px" alt="Seguridad"><br>Seguridad
+        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-security-cyber-security-flatart-icons-outline-flatarticons.png" width="24px"><br>Seguridad
       </th>
     </tr>
   </thead>
@@ -77,7 +77,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Pytest_logo.svg" width="20px"><br>Pytest
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/charliermarsh/ruff/main/logo.svg" width="20px"><br>Ruff
+        <img src="https://raw.githubusercontent.com/charliermarsh/ruff/main/logo.svg" width="24px"><br>Ruff
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
@@ -94,7 +94,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/main/topics/unittest/unittest.png" width="20px"><br>Unittest
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/PyCQA/bandit/main/logo.png" width="20px"><br>Bandit
+        <img src="https://raw.githubusercontent.com/PyCQA/bandit/main/logo.png" width="24px"><br>Bandit
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
