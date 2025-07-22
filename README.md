@@ -58,7 +58,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="24px"><br>Pruebas
       </th>
       <th style="padding: 10px;">
-        <img src="Imagenes/seguridad.png" width="24px"><br>Seguridad
+        <img src="https://previews.123rf.com/images/pikepicture/pikepicture2003/pikepicture200303487/143710788-cybersecurity-icon-vector-cybersecurity-sign-isolated-contour-symbol-illustration.jpg" width="24px"><br>Seguridad
       </th>
     </tr>
   </thead>
@@ -74,10 +74,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/unittest/unittest.png" width="20px"><br>Unittest
       </td>
       <td>
-        <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="20px"><br>Ruff
+        <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
@@ -91,13 +91,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/unittest/unittest.png" width="20px"><br>Unittest
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="20px"><br>Bandit
+        <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
       </td>
     </tr>
-    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+    <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"><br>HTML
       </td>
@@ -107,9 +107,7 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
-      </td>
+      <td>–</td>
       <td>–</td>
     </tr>
     <tr style="text-align: center;">
