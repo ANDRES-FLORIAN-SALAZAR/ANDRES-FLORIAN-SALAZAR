@@ -74,7 +74,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/unittest/unittest.png" width="20px"><br>Unittest
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Python_3.4_unittest_logo.png" width="20px"><br>Unittest
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit
@@ -97,7 +97,7 @@
         <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
       </td>
     </tr>
-    <tr style="text-align: center;">
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"><br>HTML
       </td>
