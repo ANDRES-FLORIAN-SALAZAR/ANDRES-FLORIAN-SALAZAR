@@ -46,19 +46,19 @@
   <thead style="background: #f1f1f1; color: #000; font-weight: bold;">
     <tr>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/fluency/48/source-code.png" width="24px" alt="Lenguajes"><br>Lenguajes
+        <img src="https://img.icons8.com/fluency/48/source-code.png" width="24px"><br>Lenguajes
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/database.png" width="24px" alt="Bases de Datos"><br>Bases de Datos
+        <img src="https://img.icons8.com/color/48/database.png" width="24px"><br>Bases de Datos
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/fluency/48/console.png" width="24px" alt="Entornos"><br>Entornos
+        <img src="https://img.icons8.com/fluency/48/console.png" width="24px"><br>Entornos
       </th>
       <th style="padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="24px" alt="Pytest"><br>Pruebas
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="24px"><br>Pruebas
       </th>
       <th style="padding: 10px;">
-        <img src="https://static.vecteezy.com/system/resources/previews/023/927/148/original/cyber-security-icon-or-logo-vector.jpg" width="24px" alt="Seguridad"><br>Seguridad
+        <img src="Imagenes/seguridad.png" width="24px"><br>Seguridad
       </th>
     </tr>
   </thead>
@@ -77,7 +77,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest
       </td>
       <td>
-        <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
+        <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="20px"><br>Ruff
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
@@ -91,10 +91,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux
       </td>
       <td>
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Rj3iVwEKZMiRhcEsjh45Kg.png" width="20px"><br>Unittest
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/unittest/unittest.png" width="20px"><br>Unittest
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit
+        <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="20px"><br>Bandit
       </td>
     </tr>
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
@@ -115,6 +115,24 @@
     <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"><br>CSS
+      </td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"><br>JavaScript
+      </td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"><br>Go
       </td>
       <td>–</td>
       <td>–</td>
