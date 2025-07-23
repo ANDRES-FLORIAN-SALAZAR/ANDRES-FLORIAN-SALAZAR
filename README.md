@@ -74,6 +74,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code
       </td>
       <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="24px"><br>Pytest
+      </td>
+      <td>
         <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Rj3iVwEKZMiRhcEsjh45Kg.png" width="20px"><br>Unittest
       </td>
       <td>
