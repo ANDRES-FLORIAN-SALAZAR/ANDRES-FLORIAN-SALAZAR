@@ -58,7 +58,7 @@
         <img src="https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width="24px"><br>Pruebas
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=opsrjUcLnOBB&format=png&color=000000" width="24px"><br>Seguridad
+        <img src="https://img.icons8.com/?size=100&id=pNKVV2kK3pyg&format=png&color=000000" width="24px"><br>Seguridad
       </th>
     </tr>
   </thead>
