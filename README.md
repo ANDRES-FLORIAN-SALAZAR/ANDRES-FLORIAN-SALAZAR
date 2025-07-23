@@ -9,6 +9,21 @@
   <p align="center" style="margin: 20px 0;">
     <img src="Imagenes/Fondo1.png" alt="Fondo2" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
   </p>
+  
+  <!-- 👁️ Contador de visitas estilo futurista -->
+<div align="center" style="margin-top: 40px;">
+  <div style="display: inline-block; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius: 15px; padding: 20px 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <h3 style="color: #00FFFF; font-family: 'Share Tech Mono', monospace; font-size: 1.5em; margin-bottom: 10px;">
+      👁️ Contador de Visitas
+    </h3>
+    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg"
+         alt="Contador de visitas"
+         style="filter: brightness(150%) drop-shadow(0 0 5px #0ff); border-radius: 8px;" />
+  </div>
+</div>
+
+<!-- Fuente estilo digital -->
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
 
   <!-- Navegación -->
   <div align="center" style="margin: 20px 0;">
