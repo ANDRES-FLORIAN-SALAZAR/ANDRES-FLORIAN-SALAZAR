@@ -150,16 +150,90 @@
 
   <hr />
 
-  <!-- Proyectos Relevantes -->
-  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">✨ Proyectos Relevantes</h2>
-  <ul style="color: #555; font-size: 1.1em; margin: 20px; line-height: 1.8;">
-    <li><b>ALPHA_WEB:</b> Creación de un codificador de contraseñas y un entorno de seguridad.</li>
-    <li><b>PRUEBAS_SOFTWARE:</b> Pruebas de seguridad para aplicaciones y sistemas.</li>
-    <li><b>TWITTER2:</b> Creación de endpoints con respuestas utilizando MongoDB.</li>
-    <li><b>NOSQL_TALLER5:</b> Uso y aprendizaje práctico de bases de datos NoSQL.</li>
-    <li><b>TALLER-SQL:</b> Manejo avanzado de SQL Server para análisis y desarrollo.</li>
-    <li><b>AJEDREZ:</b> Creación básica de un juego de ajedrez con lógica y diseño.</li>
-  </ul>
+  <!-- 🔥 Repositorios Destacados -->
+<h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🔥 Repositorios Destacados</h2>
+
+<table align="center" style="width: 95%; margin: 20px auto; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); background: #fff; border-radius: 12px; overflow: hidden;">
+  <thead style="background-color: #1a1a2e; color: white;">
+    <tr>
+      <th style="padding: 15px;">Repositorio</th>
+      <th style="padding: 15px;">Lenguajes / Tecnologías</th>
+      <th style="padding: 15px;">Descripción</th>
+    </tr>
+  </thead>
+  <tbody style="color: #333; font-size: 0.95em;">
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/ALPHAWEB" target="_blank"><b>ALPHAWEB</b></a></td>
+      <td>🐍 Python, 🐘 PostgreSQL, 🧪 Pytest, 🛡️ Bandit, ☕ Java, 💾 SQLite, 🐧 Linux, 🔬 Unittest, 🧹 Ruff, 🔶 HTML, 🌿 Django, 🧭 Selenium, 🎨 CSS, ⚡ JavaScript</td>
+      <td>Codificador de contraseñas y entorno de seguridad.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/PRUEBAS_SEGURIDAD" target="_blank"><b>PRUEBAS_SEGURIDAD</b></a></td>
+      <td>🧪 Pytest, 🔬 Unittest, 🛡️ Bandit</td>
+      <td>Pruebas de seguridad en aplicaciones y sistemas.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/Pruebas_Aceptacion2" target="_blank"><b>Pruebas_Aceptacion2</b></a></td>
+      <td>🧪 Pytest, 🔬 Unittest</td>
+      <td>Pruebas de aceptación para funcionalidades críticas.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/Pruebas_Aceptaci-n" target="_blank"><b>Pruebas_Aceptaci-n</b></a></td>
+      <td>🧪 Pytest, 🔬 Unittest</td>
+      <td>Segunda entrega de pruebas funcionales.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/TALLER-4PRUEBAS" target="_blank"><b>TALLER-4PRUEBAS</b></a></td>
+      <td>🧪 Pytest, 🔬 Unittest</td>
+      <td>Taller práctico de pruebas automatizadas.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/PARCIAL_TESTS" target="_blank"><b>PARCIAL_TESTS</b></a></td>
+      <td>🧪 Pytest, 🔬 Unittest</td>
+      <td>Evaluación parcial de pruebas de software.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/TWITTER2" target="_blank"><b>TWITTER2</b></a></td>
+      <td>🍃 MongoDB, 🌿 Django, 🐍 Python</td>
+      <td>API de publicaciones con base de datos NoSQL.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/TALLER5" target="_blank"><b>TALLER5</b></a></td>
+      <td>🍃 MongoDB, 🐍 Python</td>
+      <td>Aplicación práctica con base de datos NoSQL.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/TALLER-SQL" target="_blank"><b>TALLER-SQL</b></a></td>
+      <td>🟦 SQL, 🐍 Python</td>
+      <td>Consultas y manejo avanzado en SQL Server.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/AJEDREZ" target="_blank"><b>AJEDREZ</b></a></td>
+      <td>🐍 Python</td>
+      <td>Juego de ajedrez con lógica y diseño.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/AYUDA" target="_blank"><b>AYUDA</b></a></td>
+      <td>🔶 HTML</td>
+      <td>Auxiliar educativo web.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/APLICACIONES_WEB" target="_blank"><b>APLICACIONES_WEB</b></a></td>
+      <td>🌐 —</td>
+      <td>Proyecto full‑stack web.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/PROYECTO-NOSQL" target="_blank"><b>PROYECTO-NOSQL</b></a></td>
+      <td>🍃 MongoDB</td>
+      <td>Taller práctico con bases de datos NoSQL.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/TARJETAS" target="_blank"><b>TARJETAS</b></a></td>
+      <td>🔶 HTML, 🎨 CSS</td>
+      <td>Cartas interactivas web.</td>
+    </tr>
+  </tbody>
+</table>
 
   <hr style="border: none; height: 2px; background: #ddd; margin: 20px 0;" />
 
@@ -189,5 +263,15 @@
       </td>
     </tr>
   </table>
+</div>
+
+<!-- 🏆 Tarjeta de Contribuciones -->
+<div align="center" style="margin: 40px 0;">
+  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">
+    🏆 Contribuciones Destacadas
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&title=Commit,PullRequest,Issues,Repositories,Stars" 
+       alt="GitHub Trophies"
+       style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); background-color: #fff; padding: 20px; margin-top: 20px;" />
 </div>
 </body>
