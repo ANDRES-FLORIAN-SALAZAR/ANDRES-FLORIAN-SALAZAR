@@ -265,7 +265,7 @@
   </table>
 </div>
 
-<!-- 🏆 Tarjeta de Contribuciones Alternativa -->
+<!-- 🏆 Tarjeta de Contribuciones (Racha) -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">
     🏆 Contribuciones Destacadas
