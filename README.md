@@ -55,7 +55,7 @@
         <img src="https://img.icons8.com/fluency/48/console.png" width="24px"><br>Entornos
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width="24px"><br>Pruebas
+        <img src="Imagenes/de24ba50-f133-45e0-be22-c3a9ef79a7ac.png" width="24px"><br>Pruebas
       </th>
       <th style="padding: 10px;">
         <img src="https://previews.123rf.com/images/pikepicture/pikepicture2003/pikepicture200303487/143710788-cybersecurity-icon-vector-cybersecurity-sign-isolated-contour-symbol-illustration.jpg" width="24px"><br>Seguridad
@@ -74,10 +74,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="24px"><br>Pytest
-      </td>
-      <td>
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Rj3iVwEKZMiRhcEsjh45Kg.png" width="20px"><br>Unittest
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest<br>
+        <img src="Imagenes/unittest.png" width="20px"><br>Unittest
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit
