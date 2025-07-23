@@ -264,15 +264,4 @@
     </tr>
   </table>
 </div>
-
-<!-- 🏆 Tarjeta de Contribuciones (Racha) -->
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">
-    🏆 Contribuciones Destacadas
-  </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&hide_border=false"
-       alt="GitHub Streak Stats"
-       style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); background-color: #fff; padding: 20px; margin-top: 20px;" />
-</div>
-
 </body>
