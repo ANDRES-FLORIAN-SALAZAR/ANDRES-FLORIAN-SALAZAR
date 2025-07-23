@@ -93,7 +93,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux
       </td>
       <td>
-        <img src="https://programacionpython80889555.wordpress.com/wp-content/uploads/2020/05/un.png"><br>Unittest
+        <img src="https://programacionpython80889555.wordpress.com/wp-content/uploads/2020/05/un.png" width="20px"><br>Unittest
       </td>
       <td>
         <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
