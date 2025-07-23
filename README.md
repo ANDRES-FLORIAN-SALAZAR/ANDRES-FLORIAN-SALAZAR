@@ -270,8 +270,9 @@
   <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">
     🏆 Contribuciones Destacadas
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&title=Commit,PullRequest,Issues,Repositories,Stars" 
-       alt="GitHub Trophies"
+  <img src="https://streak-stats.demolab.com?user=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&hide_border=false"
+       alt="GitHub Streak Stats"
        style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); background-color: #fff; padding: 20px; margin-top: 20px;" />
 </div>
+
 </body>
