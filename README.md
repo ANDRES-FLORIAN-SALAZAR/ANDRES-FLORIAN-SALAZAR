@@ -34,7 +34,7 @@
   <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🔮 Áreas de Interés</h2>
   <ul style="color: #555; font-size: 1.1em; margin: 20px; line-height: 1.8;">
     <li><b>🛡️ Ciberseguridad:</b> Encriptación, análisis de vulnerabilidades y protocolos de red.</li>
-    <li><b>💻 Programación:</b> Desarrollo utilizando Python, CSS, HTML, Java y Go.</li>
+    <li><b>💻 Programación:</b> Desarrollo utilizando Python, CSS, HTML, Java, JavaScript y Go.</li>
     <li><b>📚 Aprendizaje Continuo:</b> Exploración de nuevas tecnologías, metodologías y tendencias.</li>
   </ul>
 
@@ -58,7 +58,7 @@
         <img src="https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width="24px"><br>Pruebas
       </th>
       <th style="padding: 10px;">
-        <img src="https://previews.123rf.com/images/pikepicture/pikepicture2003/pikepicture200303487/143710788-cybersecurity-icon-vector-cybersecurity-sign-isolated-contour-symbol-illustration.jpg" width="24px"><br>Seguridad
+        <img src="https://img.icons8.com/?size=100&id=opsrjUcLnOBB&format=png&color=000000" width="24px"><br>Seguridad
       </th>
     </tr>
   </thead>
