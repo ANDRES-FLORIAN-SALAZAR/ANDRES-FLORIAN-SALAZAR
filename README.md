@@ -46,16 +46,16 @@
   <thead style="background: #f1f1f1; color: #000; font-weight: bold;">
     <tr>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/fluency/48/source-code.png" width="24px"><br>Lenguajes
+        <img src="https://img.icons8.com/?size=100&id=G3BbEKyWQFlz&format=png&color=000000"><br>Lenguajes
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/color/48/database.png" width="24px"><br>Bases de Datos
+        <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"><br>Bases de Datos
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/fluency/48/console.png" width="24px"><br>Entornos
+        <img src="https://img.icons8.com/?size=100&id=hhSVlHa4HZ2J&format=png&color=000000"><br>Entornos
       </th>
       <th style="padding: 10px;">
-        <img src="Imagenes/de24ba50-f133-45e0-be22-c3a9ef79a7ac.png" width="24px"><br>Pruebas
+        <img src="https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000"><br>Pruebas
       </th>
       <th style="padding: 10px;">
         <img src="https://previews.123rf.com/images/pikepicture/pikepicture2003/pikepicture200303487/143710788-cybersecurity-icon-vector-cybersecurity-sign-isolated-contour-symbol-illustration.jpg" width="24px"><br>Seguridad
@@ -93,7 +93,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux
       </td>
       <td>
-        <img src="Imagenes/unittest.png" width="20px"><br>Unittest
+        <img src="https://programacionpython80889555.wordpress.com/wp-content/uploads/2020/05/un.png"><br>Unittest
       </td>
       <td>
         <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
