@@ -63,6 +63,7 @@
     </tr>
   </thead>
   <tbody>
+    <!-- Fila 1 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"><br>Python
@@ -74,15 +75,23 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest<br>
-      </td>
-      <td>
-        <img src="Imagenes/unittest.png" width="20px"><br>Unittest
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit
       </td>
     </tr>
+    <!-- Fila 2 -->
+    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>
+        <img src="Imagenes/unittest.png" width="20px"><br>Unittest
+      </td>
+      <td>–</td>
+    </tr>
+    <!-- Fila 3 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"><br>Java
@@ -100,6 +109,7 @@
         <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
       </td>
     </tr>
+    <!-- Fila 4 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"><br>HTML
@@ -113,6 +123,7 @@
       <td>–</td>
       <td>–</td>
     </tr>
+    <!-- Fila 5 -->
     <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"><br>CSS
@@ -122,6 +133,7 @@
       <td>–</td>
       <td>–</td>
     </tr>
+    <!-- Fila 6 -->
     <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"><br>JavaScript
@@ -131,6 +143,7 @@
       <td>–</td>
       <td>–</td>
     </tr>
+    <!-- Fila 7 -->
     <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"><br>Go
