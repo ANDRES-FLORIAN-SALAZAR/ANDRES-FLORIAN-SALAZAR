@@ -96,9 +96,6 @@
         <img src="Imagenes/unittest.png" width="20px"><br>Unittest
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
-      </td>
-      <td>
         <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
       </td>
     </tr>
@@ -113,7 +110,9 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django
       </td>
-      <td>–</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
+      </td>
       <td>–</td>
     </tr>
     <!-- Fila 4 -->
