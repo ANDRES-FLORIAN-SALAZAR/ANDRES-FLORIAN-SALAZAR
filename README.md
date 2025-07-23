@@ -46,16 +46,16 @@
   <thead style="background: #f1f1f1; color: #000; font-weight: bold;">
     <tr>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=G3BbEKyWQFlz&format=png&color=000000"><br>Lenguajes
+        <img src="https://img.icons8.com/?size=100&id=G3BbEKyWQFlz&format=png&color=000000" width="24px"><br>Lenguajes
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"><br>Bases de Datos
+        <img src="https://img.icons8.com/?size=100&id=yzlNpHU1FNTq&format=png&color=000000" width="24px"><br>Bases de Datos
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=hhSVlHa4HZ2J&format=png&color=000000"><br>Entornos
+        <img src="https://img.icons8.com/?size=100&id=hhSVlHa4HZ2J&format=png&color=000000" width="24px"><br>Entornos
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000"><br>Pruebas
+        <img src="https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width="24px"><br>Pruebas
       </th>
       <th style="padding: 10px;">
         <img src="https://previews.123rf.com/images/pikepicture/pikepicture2003/pikepicture200303487/143710788-cybersecurity-icon-vector-cybersecurity-sign-isolated-contour-symbol-illustration.jpg" width="24px"><br>Seguridad
