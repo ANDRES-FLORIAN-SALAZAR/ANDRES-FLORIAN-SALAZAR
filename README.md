@@ -83,16 +83,6 @@
     </tr>
     <!-- Fila 2 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-      <td>–</td>
-      <td>–</td>
-      <td>–</td>
-      <td>
-        <img src="Imagenes/unittest.png" width="20px"><br>Unittest
-      </td>
-      <td>–</td>
-    </tr>
-    <!-- Fila 3 -->
-    <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"><br>Java
       </td>
@@ -103,13 +93,16 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux
       </td>
       <td>
+        <img src="Imagenes/unittest.png" width="20px"><br>Unittest
+      </td>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
       </td>
       <td>
         <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
       </td>
     </tr>
-    <!-- Fila 4 -->
+    <!-- Fila 3 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"><br>HTML
@@ -123,7 +116,7 @@
       <td>–</td>
       <td>–</td>
     </tr>
-    <!-- Fila 5 -->
+    <!-- Fila 4 -->
     <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"><br>CSS
