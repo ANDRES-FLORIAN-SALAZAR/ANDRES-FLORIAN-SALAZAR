@@ -75,6 +75,8 @@
       </td>
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest<br>
+      </td>
+      <td>
         <img src="Imagenes/unittest.png" width="20px"><br>Unittest
       </td>
       <td>
