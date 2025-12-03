@@ -15,8 +15,8 @@
     <nav style="display: inline-block; background-color: #fff; padding: 10px 20px; border-radius: 50px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="#ciberseguridad" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold; transition: color 0.3s;">🛡️ Ciberseguridad</a>
       <a href="#programacion" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold; transition: color 0.3s;">💻 Programación</a>
-      <a href="#contacto" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold; transition: color 0.3s;">✉️ Contacto</a>
-      <a href="#proyectos" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold; transition: color 0.3s;">📂 Proyectos</a>
+      <a href="https://linkedin.com/in/duvan-andr%C3%A9s-florian-salazar-220135192" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold; transition: color 0.3s;">✉️ Contacto</a>
+      <a href="https://github.com/ANDRES-FLORIAN-SALAZAR?tab=repositories" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold; transition: color 0.3s;">📂 Proyectos</a>
     </nav>
   </div>
 
