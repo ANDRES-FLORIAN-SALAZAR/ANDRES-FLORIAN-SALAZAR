@@ -107,9 +107,7 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20px"><br>MongoDB
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django
-      </td>
+      <td>-</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
       </td>
@@ -144,7 +142,7 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"><br>Go
       </td>
-      <td>–</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
