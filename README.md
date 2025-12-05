@@ -154,6 +154,7 @@
       <td>–</td>
       <td>–</td>
       <td>–</td>
+      <td>–</td>
     </tr>
      <!-- Fila 8 -->
     <tr style="text-align: center;">
