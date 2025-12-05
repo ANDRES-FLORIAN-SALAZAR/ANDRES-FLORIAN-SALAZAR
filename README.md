@@ -120,7 +120,9 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"><br>CSS
       </td>
-      <td>–</td>
+      <td>
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20px"><br>SQL Server
+      </td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
@@ -130,7 +132,9 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"><br>JavaScript
       </td>
-      <td>–</td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20px"><br>Power BI
+      </td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
@@ -139,6 +143,16 @@
     <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"><br>Go
+      </td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+    </tr>
+     <!-- Fila 8 -->
+    <tr style="text-align: center;">
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20px"><br>C++
       </td>
       <td>–</td>
       <td>–</td>
