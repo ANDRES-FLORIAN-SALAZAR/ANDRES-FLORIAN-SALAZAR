@@ -60,6 +60,9 @@
       <th style="padding: 10px;">
         <img src="https://img.icons8.com/?size=100&id=pNKVV2kK3pyg&format=png&color=000000" width="24px"><br>Seguridad
       </th>
+      <th style="padding: 10px;">
+        <img src="https://www.flaticon.es/icono-gratis/marco-de-referencia_5131633" width="24px"><br>Framework
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -80,6 +83,7 @@
       <td>
         <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit
       </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django</td>
     </tr>
     <!-- Fila 2 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
@@ -98,6 +102,7 @@
       <td>
         <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
       </td>
+      <td>-</td>
     </tr>
     <!-- Fila 3 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
@@ -112,6 +117,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
       </td>
       <td>–</td>
+      <td>–</td>
     </tr>
     <!-- Fila 4 -->
     <tr style="text-align: center;">
@@ -121,6 +127,7 @@
       <td>
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20px"><br>SQL Server
       </td>
+      <td>–</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
@@ -136,13 +143,14 @@
       <td>–</td>
       <td>–</td>
       <td>–</td>
+      <td>–</td>
     </tr>
     <!-- Fila 7 -->
     <tr style="text-align: center;">
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"><br>Go
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django</td>
+      <td>–</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
@@ -152,6 +160,7 @@
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20px"><br>C++
       </td>
+      <td>–</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
