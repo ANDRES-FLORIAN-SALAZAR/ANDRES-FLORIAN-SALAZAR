@@ -61,7 +61,7 @@
         <img src="https://img.icons8.com/?size=100&id=pNKVV2kK3pyg&format=png&color=000000" width="24px"><br>Seguridad
       </th>
       <th style="padding: 10px;">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-framework-mobile-app-development-flaticons-lineal-" width="24px"><br>Framework
+        <img src="https://img.icons8.com/?size=100&id=0N5s2xcxpqxI&format=png&color=000000" width="24px"><br>Framework
       </th>
     </tr>
   </thead>
