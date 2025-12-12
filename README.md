@@ -281,9 +281,36 @@
     <a href="mailto:duvanfloriansalazar@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
       <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://andres-florian-salazar.github.io/PORTAFOLIO/" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/portafolio-%23667eea.svg?color=667eea&style=for-the-badge&logo=briefcase&logoColor=white" alt="Portafolio" />
-    </a>
+    <svg xmlns="http://www.w3.org/2000/svg" width="180" height="35" viewBox="0 0 180 35">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fondo con gradiente -->
+  <rect width="180" height="35" rx="17.5" fill="url(#grad1)"/>
+  
+  <!-- Icono de portafolio -->
+  <g transform="translate(15, 8)">
+    <rect x="0" y="4" width="18" height="14" rx="2" fill="white" opacity="0.9"/>
+    <rect x="2" y="6" width="14" height="2" fill="#667eea"/>
+    <rect x="2" y="10" width="10" height="2" fill="#667eea"/>
+    <rect x="2" y="14" width="8" height="2" fill="#667eea"/>
+    <circle cx="9" cy="0" r="3" fill="white" opacity="0.9"/>
+  </g>
+  
+  <!-- Texto "Portafolio" -->
+  <text x="45" y="22" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Portafolio
+  </text>
+  
+  <!-- Icono de flecha -->
+  <g transform="translate(155, 12)">
+    <path d="M0,5 L8,5 L5,2 M8,5 L5,8" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
   </p>
   
  <!-- Tarjetas debajo -->
