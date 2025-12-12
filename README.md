@@ -1,4 +1,12 @@
-<body style="background: linear-gradient(135deg, #f5f5f5, #e0e0e0); color: #333; font-family: 'Poppins', sans-serif; margin: 0; padding: 0;">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duvan Andrés Florian Salazar - GitHub Profile</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body style="background: linear-gradient(135deg, #f5f5f5, #e0e0e0); color: #333; font-family: 'Poppins', sans-serif; margin: 0; padding: 20px;">
 
   <!-- Título -->
   <h1 align="center" style="color:#222; font-size: 2.8em; margin-top: 20px; text-transform: uppercase;">
@@ -66,101 +74,56 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Fila 1 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"><br>Python
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20px"><br>PostgreSQL
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code
-      </td>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"><br>Python</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20px"><br>PostgreSQL</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"><br>VS Code</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="20px"><br>Pytest</td>
+      <td><img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="24px"><br>Bandit</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20px"><br>Django</td>
     </tr>
-    <!-- Fila 2 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"><br>Java
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20px"><br>SQLite3
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux
-      </td>
-      <td>
-        <img src="https://camo.githubusercontent.com/24e9d881536fc862565c61db66d0d725f35b8f2778af211491591a68043583d3/68747470733a2f2f70726f6772616d6163696f6e707974686f6e38303838393535352e776f726470726573732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f756e2e706e67" width="20px"><br>Unittest
-      </td>
-      <td>
-        <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"><br>Java</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20px"><br>SQLite3</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20px"><br>Linux</td>
+      <td><img src="https://camo.githubusercontent.com/24e9d881536fc862565c61db66d0d725f35b8f2778af211491591a68043583d3/68747470733a2f2f70726f6772616d6163696f6e707974686f6e38303838393535352e776f726470726573732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f756e2e706e67" width="20px"><br>Unittest</td>
+      <td><img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.24.0/1750179404111/Microsoft.VisualStudio.Services.Icons.Default" width="24px"><br>Ruff</td>
       <td>-</td>
     </tr>
-    <!-- Fila 3 -->
     <tr style="text-align: center; border-bottom: 1px solid #ddd;">
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"><br>HTML
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20px"><br>MongoDB
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"><br>HTML</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20px"><br>MongoDB</td>
       <td>-</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium</td>
       <td>–</td>
       <td>–</td>
     </tr>
-    <!-- Fila 4 -->
     <tr style="text-align: center;">
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"><br>CSS
-      </td>
-      <td>
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20px"><br>SQL Server
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"><br>CSS</td>
+      <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20px"><br>SQL Server</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
     </tr>
-    <!-- Fila 6 -->
     <tr style="text-align: center;">
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"><br>JavaScript
-      </td>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20px"><br>Power BI
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"><br>JavaScript</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20px"><br>Power BI</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
     </tr>
-    <!-- Fila 7 -->
     <tr style="text-align: center;">
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"><br>Go
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"><br>Go</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
     </tr>
-     <!-- Fila 8 -->
     <tr style="text-align: center;">
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20px"><br>C++
-      </td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20px"><br>C++</td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
@@ -170,10 +133,39 @@
   </tbody>
 </table>
 
-  <hr />
+  <hr style="border: none; height: 2px; background: #ddd; margin: 20px 0;" />
+
+  <!-- Estadísticas de GitHub -->
+  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">📊 Estadísticas de GitHub</h2>
+  
+  <!-- Primera fila: Stats y Languages -->
+  <div align="center" style="margin: 20px;">
+    <table>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="180" alt="stats graph" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph" />
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Segunda fila: Contribution Graph -->
+  <div align="center" style="margin: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANDRES-FLORIAN-SALAZAR&theme=tokyo-night&hide_border=false&area=true" alt="contribution graph" style="max-width: 90%;" />
+  </div>
+
+  <!-- Tercera fila: Streak Stats -->
+  <div align="center" style="margin: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&hide_border=false" alt="streak stats" />
+  </div>
+
+  <hr style="border: none; height: 2px; background: #ddd; margin: 20px 0;" />
 
   <!-- 🔥 Repositorios Destacados -->
-<h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🔥 Repositorios Destacados</h2>
+  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🔥 Repositorios Destacados</h2>
 
 <table align="center" style="width: 95%; margin: 20px auto; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); background: #fff; border-radius: 12px; overflow: hidden;">
   <thead style="background-color: #1a1a2e; color: white;">
@@ -282,18 +274,10 @@
       <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-  
- <!-- Tarjetas debajo -->
-<div align="center" style="margin: 20px;">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-      </td>
-    </tr>
-  </table>
-</div>
+
+  <p align="center" style="margin-top: 30px; color: #888; font-size: 0.9em;">
+    ⭐ Hecho con pasión por Duvan Andrés | 2025
+  </p>
+
 </body>
+</html>
