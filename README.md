@@ -268,23 +268,6 @@
 </table>
 
   <hr style="border: none; height: 2px; background: #ddd; margin: 20px 0;" />
-
-  <!-- Contacto -->
-  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🌌 Encuéntrame en</h2>
-  <p align="center">
-    <a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/duvan-andr%C3%A9s-florian-salazar-220135192" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:duvanfloriansalazar@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://andres-florian-salazar.github.io/PORTAFOLIO/" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/💼_PORTFOLIO-ONLINE-00D9FF?style=for-the-badge&labelColor=1A1A2E" alt="Portafolio" />
-    </a>
-  </p>
   
  <!-- Tarjetas debajo -->
 <div align="center">
@@ -311,4 +294,21 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </div>
+
+<!-- Contacto -->
+  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🌌 Encuéntrame en</h2>
+  <p align="center">
+    <a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/duvan-andr%C3%A9s-florian-salazar-220135192" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:duvanfloriansalazar@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://andres-florian-salazar.github.io/PORTAFOLIO/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/💼_PORTFOLIO-ONLINE-00D9FF?style=for-the-badge&labelColor=1A1A2E" alt="Portafolio" />
+    </a>
+  </p>
 </body>
