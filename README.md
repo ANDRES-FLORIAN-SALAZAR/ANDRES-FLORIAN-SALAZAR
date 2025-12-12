@@ -282,7 +282,7 @@
       <img src="https://img.shields.io/badge/email-%23EA4335.svg?color=BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://andres-florian-salazar.github.io/PORTAFOLIO/" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/🌐_PORTAFOLIO-Ver_Proyectos-667eea?style=for-the-badge&labelColor=764ba2&logoColor=white" alt="Portafolio" />
+      <img src="https://img.shields.io/badge/⚡_MI_PORTAFOLIO-Explorar-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
     </a>
   </p>
   
