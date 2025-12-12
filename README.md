@@ -271,32 +271,16 @@
   
  <!-- Tarjetas debajo -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&locale=es" height="195" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8&locale=es" height="195" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" height="195" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANDRES-FLORIAN-SALAZAR&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6e96" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANDRES-FLORIAN-SALAZAR&theme=tokyo-night&hide_border=true&bg_color=1a1b27" />
 </div>
 
 <!-- Contacto -->
- <center> <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🌌 Encuéntrame en</h2></center>
+ <h2 align="center" style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🌌 Encuéntrame en</h2>
   <p align="center">
     <a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank" style="text-decoration: none; margin: 0 10px;">
       <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
