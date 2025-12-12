@@ -296,7 +296,7 @@
 </div>
 
 <!-- Contacto -->
-  <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🌌 Encuéntrame en</h2>
+ <center> <h2 style="color: #222; text-align: center; font-size: 2em; text-transform: uppercase;">🌌 Encuéntrame en</h2></center>
   <p align="center">
     <a href="https://github.com/ANDRES-FLORIAN-SALAZAR" target="_blank" style="text-decoration: none; margin: 0 10px;">
       <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
