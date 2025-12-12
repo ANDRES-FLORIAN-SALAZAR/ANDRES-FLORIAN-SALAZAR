@@ -287,16 +287,28 @@
   </p>
   
  <!-- Tarjetas debajo -->
-<div align="center" style="margin: 20px;">
+<div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+        <img src="https://github-readme-stats.vercel.app/api?username=ANDRES-FLORIAN-SALAZAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&locale=es" height="195" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDRES-FLORIAN-SALAZAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8&locale=es" height="195" />
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANDRES-FLORIAN-SALAZAR&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6e96" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANDRES-FLORIAN-SALAZAR&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </div>
 </body>
