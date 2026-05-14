@@ -112,7 +112,8 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20px"><br>MongoDB
       </td>
-      <td>-</td>
+      <td><img src="https://codeium.gallerycdn.vsassets.io/extensions/codeium/codeium/1.49.2/1750056474392/Microsoft.VisualStudio.Services.Icons.Default" width="20px"><br>Windsurf
+      </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20px"><br>Selenium
       </td>
@@ -127,7 +128,8 @@
       <td>
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20px"><br>SQL Server
       </td>
-      <td>–</td>
+      <td> <img src="https://blogthinkbig.com/wp-content/uploads/sites/4/2025/11/Google-Antigravity-Logo.jpg?resize=1040%2C400" width="20px"><br>Antigravity
+      </td>
       <td>–</td>
       <td>–</td>
       <td>–</td>
