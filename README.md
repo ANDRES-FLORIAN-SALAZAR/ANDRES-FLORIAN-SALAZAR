@@ -1,10 +1,5 @@
 <body style="background: linear-gradient(135deg, #f5f5f5, #e0e0e0); color: #333; font-family: 'Poppins', sans-serif; margin: 0; padding: 0;">
 
-  <!-- Título -->
-  <h1 align="center" style="color:#222; font-size: 2.8em; margin-top: 20px; text-transform: uppercase;">
-    🚀 Duvan Andrés Florian Salazar 🌌
-  </h1>
-
   <!-- Imagen -->
   <p align="center" style="margin: 20px 0;">
     <img src="Imagenes/FONDO1.jpg" alt="Fondo" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
