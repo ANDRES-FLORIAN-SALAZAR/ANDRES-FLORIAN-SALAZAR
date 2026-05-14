@@ -186,6 +186,11 @@
     </tr>
   </thead>
   <tbody style="color: #333; font-size: 0.95em;">
+     <tr>
+      <td><a href="https://andres-florian-salazar.github.io/ICICO/" target="_blank"><b>ICICO</b></a></td>
+      <td>🐍 Python,🔶 HTML, 🎨 CSS, ⚡ JavaScript,🌿 Django,💾 SQLite </td>
+      <td>Pagina estatica de Iglesia Cristriana.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ANDRES-FLORIAN-SALAZAR/FINANPRO" target="_blank"><b>FINANPRO</b></a></td>
       <td>🐍 Python,🔶 HTML, 🎨 CSS, ⚡ JavaScript,🐘 PostgreSQL,💾 SQLite,🌿 Django </td>
